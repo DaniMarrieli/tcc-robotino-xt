@@ -1,0 +1,1 @@
+A revitalização de um robô legado (_retrofit_) é o processo de **modernizar uma plataforma de hardware antiga e funcional**, evitando seu descarte. Seu principal objetivo é **combater a obsolescência**, substituindo ou complementando componentes de _hardware_ e _software_ desatualizados por tecnologia atual.
