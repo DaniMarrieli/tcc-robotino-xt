@@ -1,0 +1,19 @@
+# Obsidian - estado local da interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Syncthing
+.stfolder*
+.stignore
+
+# Sistema
+.DS_Store
+Thumbs.db
+.Trash-*
+
+# Temporários
+*.tmp
+*.bak
+*~
